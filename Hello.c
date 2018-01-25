@@ -11,7 +11,7 @@
 
 int main (void) {
 	
-	printf("Isaac");
+	printf("Isaac, Joel");
 
 return 0;
 }
